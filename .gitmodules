@@ -1,0 +1,6 @@
+[submodule "components/pi_image"]
+	path = components/pi_image
+	url = https://github.com/trumpton/pi_image.git
+[submodule "components/restrelay"]
+	path = components/restrelay
+	url = https://github.com/trumpton/restrelay.git
