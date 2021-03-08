@@ -4,3 +4,6 @@
 [submodule "components/restrelay"]
 	path = components/restrelay
 	url = https://github.com/trumpton/restrelay.git
+[submodule "components/nginx_letsencrypt"]
+	path = components/nginx_letsencrypt
+	url = https://github.com/trumpton/nginx_letsencrypt.git
